@@ -23,6 +23,7 @@ The trained models achieve promising results in distinguishing normal eyes from 
 
 ![image](https://github.com/user-attachments/assets/5c26ae26-a405-4689-9089-74b34c8540c1)
 Normal Eye
+
 ![image](https://github.com/user-attachments/assets/a1739481-fcef-43a1-8be5-8e93071045ed)
 Glaucomatous Eye
 
