@@ -21,6 +21,11 @@ The dataset consists of eye images labeled as either normal or glaucomatous. The
 ## Results
 The trained models achieve promising results in distinguishing normal eyes from glaucomatous eyes. The best-performing model is identified based on evaluation metrics. Among all the models, GoogleNet achieved the highest accuracy (89.28%), followed by ResNet50 (86.16%), while VGG16 and AlexNet scored 44.64%.
 
+![image](https://github.com/user-attachments/assets/5c26ae26-a405-4689-9089-74b34c8540c1)
+Normal Eye
+![image](https://github.com/user-attachments/assets/a1739481-fcef-43a1-8be5-8e93071045ed)
+Glaucomatous Eye
+
 ## Installation & Usage
 ### Prerequisites
 - Google Colab
